@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippfdhru-auditlog'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_320AE5B65FA04FAF8D3E9028D759A02A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6385B6CE11154B0797C9DAEEFE1AE808 }}
