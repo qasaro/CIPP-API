@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippfdhru-standards'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C49CC46793E94C08AC6FC45C6CEF4E0D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_01576E3CC034487E9039F20DBB3EA46A }}
