@@ -27,4 +27,4 @@ jobs:
           app-name: 'cippfdhru-usertasks'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_87F8ACB042904922A96732DF20C67D8A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB8AE34CD8474919B2CC2993FFB19097 }}
